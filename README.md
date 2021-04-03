@@ -13,7 +13,7 @@ This is an ongoing project on building a machine learning models to accurately p
 ## Data
 
 The well logs are provided by XEEK.ai To get more information follow the link below:
-![xeek.ai](https://xeek.ai/challenges/force-well-logs/overview)
+![xeek](https://xeek.ai/challenges/force-well-logs/overview)
 
 
 ## Content
